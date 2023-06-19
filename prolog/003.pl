@@ -1,3 +1,5 @@
+# 2) Elaborar um prog q forneça o nome da capital de qualquer estado da região sudeste
+
 estado(mg,'Belo Horizonte').
 estado(es,'Espirto Santo').
 estado(rj,'Rio de Janeiro').

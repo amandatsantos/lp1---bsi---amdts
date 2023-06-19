@@ -1,3 +1,5 @@
+#  Tipo sanguíneo
+
 doa(a,a).
 doa(a,ab).
 doa(b,b).
